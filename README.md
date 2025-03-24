@@ -2,7 +2,7 @@
 ### Análise de Empresas Unicórnios utilizando Python.
 
 ## Ciência de Dados para Finanças
-### Por: [José Augusto Soares](https://www.linkedin.com/in/j-augusto-oliveira/) - Linkedin
+### Por: José Augusto Soares - [Linkedin](https://www.linkedin.com/in/j-augusto-oliveira/)
 
 ### Sobre o conjunto de dados
 "Unicórnio" é um termo usado na indústria de capital de risco para descrever uma startup de capital fechado com valor superior a US$ 1 bilhão. O termo foi popularizado pela primeira vez pela capitalista de risco Aileen Lee, fundadora da Cowboy Ventures, um fundo de capital de risco com sede em Palo Alto, Califórnia.
@@ -43,4 +43,41 @@ Unicórnios também podem se referir a um fenômeno de recrutamento no setor de 
 * Conversão Numérico
 
 ![image](https://github.com/user-attachments/assets/e6b4b75f-64ca-42b2-ac0f-a5b17de3c2a6)
+
+### Gráficos
+
+* Heatmap
+
+![image](https://github.com/user-attachments/assets/d504a219-65cf-4e0b-a457-7e6ee102a571)
+![image](https://github.com/user-attachments/assets/4f5181c5-15ea-443c-ad86-7f5ef6585a28)
+
+* Barra
+
+![image](https://github.com/user-attachments/assets/f8a55eb7-7b97-4ad8-87d0-233591737674)
+![image](https://github.com/user-attachments/assets/3ccaef6f-6ec5-4f81-9987-fc6aa03b818f)
+
+* Pie Chart
+
+![image](https://github.com/user-attachments/assets/95b73463-1f55-45f0-b490-b03fa50e0bb7)
+![image](https://github.com/user-attachments/assets/346b4b41-d678-41ed-841f-5f63e0788a11)
+
+* Plot Line
+
+![image](https://github.com/user-attachments/assets/ff734ea2-9ef5-4f50-bc1f-5f47bd2829d4)
+![image](https://github.com/user-attachments/assets/99c31e16-e5ec-4f9b-b6df-6087fcfb3e88)
+
+### Resumo
+A análise mostra a diferença nítida entre os dois primeiros Colocados em Setores e Países assim como os 4 Top ranks na coluna "valor ($)",
+podemos levar em consideração que são países de primeiro mundo que tem muitos recursos investidos em tecnologia assim como também no 
+desenvolvimento de pessoas.
+
+Olhando para um contexto de investimento realizar buscas e análises de empresas dos países e setores que estão no top rank da análise pode 
+nós ajudar a indentificar e encontrar novos unicórnios.
+
+
+
+
+
+
+
 
